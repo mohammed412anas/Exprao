@@ -36,6 +36,13 @@ This page contain the personal details of user and the history of the orders the
 ### Tools and Technologies Used
 The tech stack includes ReactJS for frontend and Node, Express for backend along with MySQL for database.
 ### Installation
+Project installation and setup guide includes the following commands:
+To install the dependencies
+```bash
+npm install
+```bash
+To start the project
+npm start
 
 
 
