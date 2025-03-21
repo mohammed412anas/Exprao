@@ -6,7 +6,7 @@ Exprao web-application for an e-commerce store.
 2. Need Of Project
 3. Project Feature
 4. Tools and Technologies Used
-5. Required Installation
+5. Installation
 6. User Guidence
 7. Contribution
 ### 1. Project Description
@@ -34,6 +34,8 @@ when ever user finalise his cart then there would display of checkout page which
 #### My Orders and User Profile pages
 This page contain the personal details of user and the history of the orders the user made.
 ### Tools and Technologies Used
+The tech stack includes ReactJS for frontend and Node, Express for backend along with MySQL for database.
+### Installation
 
 
 
