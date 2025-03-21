@@ -38,11 +38,13 @@ The tech stack includes ReactJS for frontend and Node, Express for backend along
 ### Installation
 Project installation and setup guide includes the following commands:
 To install the dependencies
-```bash
+```
 npm install
-```bash
+```
 To start the project
+```
 npm start
+```
 
 
 
