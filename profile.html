@@ -4,13 +4,36 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <style>
+    * {
+        margin: 0;
+        size: 1vw;
+    }
+
+    .class_for_header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border: 1px solid black;
+    width: 100vw;
+    height: 100px;
+    background-color: aqua;
+    font-size: 2vw;}
+    .class_for_img_title {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    size: 1.5vw;
+    align-items: center;
+
+}
+    </style>
 </head>
 <body>
-    <h1 title="Name of e-commercee application ">Exprao</h1>
     <div class="class_for_header">
         <div class="class_for_img_title">
           <img
-            src="logo.jpg"
+            src="https://img.freepik.com/premium-photo/mini-shopping-trolley-cart-with-with-globe-blue-background_1048944-12234360.jpg?ga=GA1.1.144463521.1742531896&semt=ais_hybrid"
             alt="logo"
             style="width: 100px; height: 100px; mix-blend-mode: multiply"
           />
@@ -29,6 +52,13 @@
           />
           <p id="id_for_displaying_recent_login_user"></p>
         </div>
+      </div>
+      <div style="margin: 50px;">
+        <p>Name : <input type="text"></p>
+        <p>Email : <input type="text"></p>
+        <p> Contact : <input type="text"></p>
+        <p> Cart : <input type="text"></p>
+        <p> Ordered item : <input type="text"></p>
       </div>
     
 </body>
