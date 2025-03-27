@@ -45,6 +45,11 @@ To start the project
 ```
 npm start
 ```
+## User guide
+when you open the application you will go to home page, the home page have the display of items that is available and you can add them into cart after that and after checkout you  will get into the homee page which displays your profile and your orders.
+
+### Contribution
+
 
 
 
